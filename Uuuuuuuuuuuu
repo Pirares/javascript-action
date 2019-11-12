@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/actions/javascript-action"><img alt="GitHub Actions status" src="https://github.com/actions/javascript-action/workflows/test-local/badge.svg"></a>
+  <a href="https://github.com/actions/javascript-action"><img alt="GitHub Actions status" src="httal/badge.svg"></a>
 </p>
 
 # Create a JavaScript Action
@@ -15,7 +15,8 @@ If you are new, there's also a simpler introduction.  See the [Hello World JavaS
 
 Click the `Use this Template` and provide the new repo details for your action
 
-## Code in Master
+
+
 
 Install the dependencies  
 ```bash
@@ -111,4 +112,4 @@ with:
   milliseconds: 1000
 ```
 
-See the [actions tab](https://github.com/actions/javascript-action/actions) for runs of this action! :rocket:
+راجع [علامة تبويب "الإجراءات" (https://github.com/actions/javascript-action/actions) للاطلاع على عمليات هذا الإجراء! :صاروخ:
